@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ansh1602
 - 👀 I’m interested in tech👽👾
 - 🌱 I’m currently learning cpp and web dev
-- 💞️ I’m looking to collaborate on any beginner level porject
+- 💞️ I’m looking to collaborate on any beginner level project
 - 📫 How to reach me .. JUst DM me 👽🐱‍👤
 
 <!---
